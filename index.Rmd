@@ -1,6 +1,6 @@
 ---
 title: "index"
-author: "Isabella Errigo"
+author: "Isabella Errigo and Leah Crenshaw"
 date: "2024-09-10"
 output: html_document
 ---
@@ -9,4 +9,5 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## I am so proud of us for all we have done today.
+## This is our website. We worked hard on it and we are proud of all we have done.
+
