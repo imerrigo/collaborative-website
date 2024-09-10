@@ -1,5 +1,5 @@
 ---
-title: "index"
+title: "DNRE GSA"
 author: "Isabella Errigo and Leah Crenshaw"
 date: "2024-09-10"
 output: html_document
@@ -11,4 +11,6 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## The DNRE GSA Extends a Warm Welcome
 ![GSA Family Photo](GSA-FAmily-Photo.jpg)
+
+Welcome! We are excited you are joining us as 
 
