@@ -12,3 +12,8 @@ knitr::opts_chunk$set(echo = TRUE)
 ## This is our website. We worked hard on it and we are proud of all we have done.
 ![GSA Family Photo](GSA-FAmily-Photo.jpg)
 
+
+
+## Upcoming Events <3
+* **Wednesday, Sept. 11** Climbing at Lindseth Climbing Center from **5:30-7:00**
+* **Monday, Sept.16** Hiking! Meet at Fernow Grad Lounge at **5:00**
