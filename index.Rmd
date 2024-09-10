@@ -1,6 +1,6 @@
 ---
 title: "index"
-author: "Isabella Errigo"
+author: "Isabella Errigo and Leah Crenshaw"
 date: "2024-09-10"
 output: html_document
 ---
