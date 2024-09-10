@@ -1,9 +1,15 @@
-name: "our-website"
+name: "Department of Natural Resources -- Graduate Student Association"
 navbar:
-  title: "Our Collaborative Website"
+  title: "Welcome!"
   left:
-    - text: "Cars"
+    - text: "About Us"
       href: index.html
     - text: "About"
       href: about.html
 output_dir: "."
+output:
+  html_document:
+    theme: Superhero
+    highlight: textmate
+    toc: true 
+    toc_float: true 
