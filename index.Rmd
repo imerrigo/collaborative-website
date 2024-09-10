@@ -10,3 +10,5 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 ## This is our website. We worked hard on it. 
+
+![GSA Family Photo](GSA-FAmily-Photo.jpg)
