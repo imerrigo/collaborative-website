@@ -1,6 +1,6 @@
 ---
-title: "DNRE GSA"
-author: "Isabella Errigo and Leah Crenshaw"
+title: "Department of Natural Resources"
+author: "Graduate Student Association"
 date: "2024-09-10"
 output: html_document
 ---

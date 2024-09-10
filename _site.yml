@@ -1,6 +1,6 @@
-name: "Department of Natural Resources -- Graduate Student Association"
+name: "our-website"
 navbar:
-  title: "Welcome!"
+  title: "DNRE - GSA!"
   left:
     - text: "About Us"
       href: index.html
