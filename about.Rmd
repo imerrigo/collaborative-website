@@ -1,0 +1,12 @@
+---
+title: "about"
+author: "Leah Crenshaw"
+date: "2024-09-10"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Leah and Isabella are writing here.
