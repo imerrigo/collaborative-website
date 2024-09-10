@@ -9,6 +9,6 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## This is our website. We worked hard on it and we are proud of all we have done.
+## The DNRE GSA Extends a Warm Welcome
 ![GSA Family Photo](GSA-FAmily-Photo.jpg)
 
