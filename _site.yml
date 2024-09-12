@@ -4,12 +4,10 @@ navbar:
   left:
     - text: "About Us"
       href: index.html
-    - text: "About"
-      href: about.html
 output_dir: "."
 output:
   html_document:
-    theme: Superhero
+    theme: sandstone
     highlight: textmate
     toc: true 
     toc_float: true 
