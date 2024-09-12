@@ -5,7 +5,7 @@ navbar:
     - text: "About Us"
       href: about-us.html
     - text: "Upcoming Events"
-      href: about.html
+      href: upcoming-events.html
 output_dir: "."
 output:
   html_document:
