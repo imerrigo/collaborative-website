@@ -5,11 +5,11 @@ navbar:
     - text: "About Us"
       href: about-us.html
     - text: "Upcoming Events"
-      href: upcoming-events.html
+      href: about.html
 output_dir: "."
 output:
   html_document:
     theme: sandstone
     highlight: textmate
     toc: true 
-    toc_float: true 
+    toc_float: true
