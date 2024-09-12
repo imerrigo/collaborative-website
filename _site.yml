@@ -3,7 +3,9 @@ navbar:
   title: "DNRE - GSA!"
   left:
     - text: "About Us"
-      href: index.html
+      href: about-us.html
+    - text: "Upcoming Events"
+      href: upcoming-events.html
 output_dir: "."
 output:
   html_document:
